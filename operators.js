@@ -25,3 +25,8 @@ console.log(x<=y)
 console.log(x>=y)
 console.log(x<y)
 console.log(x>y)
+//Logical operators
+console.log("Logical Operators")
+console.log(a > 0 && b > 0)
+console.log(a > 0 || b < a)
+console.log(!(a > 0))

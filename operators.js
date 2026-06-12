@@ -14,4 +14,14 @@ var x=10
 console.log(x+=20)
 console.log(x-=20)
 console.log(x*=20)
-console.log(x/=20)
+console.log(x/=20) 
+//Comparison Operator
+console.log("Comparison Operator")
+var x=10
+var y=20
+console.log(x==y)
+console.log(x!=y)
+console.log(x<=y)
+console.log(x>=y)
+console.log(x<y)
+console.log(x>y)

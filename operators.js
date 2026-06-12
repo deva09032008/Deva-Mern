@@ -36,3 +36,7 @@ console.log(x++)
 console.log(x--)
 console.log(++x)
 console.log(--x)
+//ternary operation
+console.log("Ternary Operation")
+var result = ( a > b) ? "a is greater" : "b is greater"
+console.log(result); 

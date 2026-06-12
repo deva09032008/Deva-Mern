@@ -37,3 +37,20 @@ console.log(big)
 console.log("DT-Symbol")
 var symbolvalue="Symbol"
 console.log(symbolvalue)
+
+//non-primitive
+console.log("Non-Primitive")
+
+//object
+console.log("DT-Object")
+var person = {
+    name: "Deva" ,
+    age: 20
+}
+console.log(person)
+
+//array
+console.log("DT-Array")
+var fruits=["Mango","Dragonfruit","Kiwi","Pomegranent"]
+console.log(fruits.length)
+console.log(fruits[3])

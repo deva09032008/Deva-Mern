@@ -11,7 +11,7 @@ else{
 }
 console.log("Outside If")
 //using switch statement
-var signal = "whiite"
+var signal = "white"
 switch(signal){
     case "green":
         console.log("Go!");
@@ -22,11 +22,9 @@ switch(signal){
         break;
 
     case "Red":
-       console.log("Stop");
-       break;
+    console.log("Stop");
+    break;
 
-       default:
-       console.log("Outside if");
-       
-
+    default:
+    console.log("Outside if");
 }

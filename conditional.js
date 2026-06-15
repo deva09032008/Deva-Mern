@@ -10,3 +10,23 @@ else{
     console.log("Invalid light color")
 }
 console.log("Outside If")
+//using switch statement
+var signal = "whiite"
+switch(signal){
+    case "green":
+        console.log("Go!");
+        break;
+
+    case "Yellow":
+        console.log("Wait");
+        break;
+
+    case "Red":
+       console.log("Stop");
+       break;
+
+       default:
+       console.log("Outside if");
+       
+
+}

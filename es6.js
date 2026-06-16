@@ -28,7 +28,11 @@ const displayStudent = () => {
     console.log(`Student Name: ${name}`);
 }
 //Array
-const  studentArray= ["Arun","priya","Deva"]
+const  studentArray= ["Arun
+    
+    
+    
+    ","priya","Deva"]
 console.log(studentArray);
 
 //spread operator
